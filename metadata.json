@@ -1,0 +1,5 @@
+{
+  "name": "販売管理システムデモ",
+  "description": "ReactとTailwind CSSで構築された、Java + Springバックエンドと連携することを想定した販売管理システムのフロントエンドデモアプリケーションです。",
+  "requestFramePermissions": []
+}
